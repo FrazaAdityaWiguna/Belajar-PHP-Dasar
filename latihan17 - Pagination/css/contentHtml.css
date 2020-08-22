@@ -1,0 +1,11 @@
+#Nav {
+    font-size: 20px;
+}
+
+#Nav a:hover {
+    text-decoration: none;
+}
+
+.dropdown .card-text {
+    position: relative;
+}

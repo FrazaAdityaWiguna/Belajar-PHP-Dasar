@@ -1,0 +1,15 @@
+Info:
+
+Didalam File tersebut terdapat beberapa class name, database name dan penempatan dari class tersebut.
+Saya juga menggabungkan Boostrap4 ke dalam file tersebut
+
+Database Name yang berbeda:
+user -> users
+
+Class Name yang berbeda:
+nama -> Name
+nrp -> Nrp
+
+dan lainnya:)
+
+kalian bisa cek sendiri ya 
